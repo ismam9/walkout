@@ -1,0 +1,62 @@
+
+#logoig{
+	margin: 0.2em;
+	padding: 0.2em;
+	border: 2px dashed;
+	border: 2px dashed;
+}
+
+#logotw{
+	margin: 0.2em;
+	padding: 0.2em;
+	border: 1px dashed black;
+}
+
+.navbar{
+	padding: 0px;
+	margin: 0px;
+}
+
+.navbar-brand{
+	padding-top: 0em;
+	margin-top: 0em;
+	
+	border: 2px solid black;
+}
+
+
+
+#micanvas{
+
+	border-right: 2px solid black;
+}
+
+/*
+#navbar-cover{
+	display: block;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTyKb8TMusphXFzje54udZBLUIpbDXH9-N8ikgQ3qxDfG2WYVM");
+}
+*/
+
+
+#navbar-cover{
+	display: block;
+	background-color: rgba(95, 95, 95, 0.4);
+
+ 
+}
+
+
+/*
+.img-fluid{
+	display: inline-block;
+}
+
+
+#sections{
+	float: left;
+
+#body-cover{
+	border: 2px solid black;
+}
+

@@ -1,0 +1,321 @@
+[24-Nov-2019 16:52:41 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 16:52:43 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 16:52:43 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 16:52:43 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 15
+[24-Nov-2019 16:52:43 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 80
+[24-Nov-2019 16:52:43 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 80
+[24-Nov-2019 16:52:49 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/login/modal-login.php on line 10
+[24-Nov-2019 16:53:07 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 16:53:07 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 16:53:07 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 16:53:07 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 15
+[24-Nov-2019 16:53:07 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 80
+[24-Nov-2019 16:53:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 80
+[24-Nov-2019 16:59:12 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/login/modal-login.php on line 10
+[24-Nov-2019 16:59:46 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/login/modal-login.php on line 10
+[24-Nov-2019 17:00:10 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:00:11 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:00:11 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:00:11 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 15
+[24-Nov-2019 17:00:11 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 80
+[24-Nov-2019 17:00:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 80
+[24-Nov-2019 17:04:36 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:04:37 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:04:37 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:04:37 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 15
+[24-Nov-2019 17:04:37 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:04:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:04:50 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:04:50 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:04:50 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:04:50 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 15
+[24-Nov-2019 17:04:50 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:04:50 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:06:10 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:06:10 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:06:10 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:06:10 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:06:10 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:06:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:06:50 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:06:50 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:06:50 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:06:50 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 15
+[24-Nov-2019 17:06:50 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:06:50 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:07:15 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:07:15 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:07:15 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:07:15 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 15
+[24-Nov-2019 17:07:15 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:07:15 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:07:59 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:07:59 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:07:59 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:07:59 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 15
+[24-Nov-2019 17:07:59 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:07:59 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:09:16 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:09:16 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:09:16 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:09:16 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 15
+[24-Nov-2019 17:09:16 Europe/Berlin] PHP Notice:  Undefined index: archivo_p in /var/www/html/walkout/admincrud/include/showbeats.php on line 47
+[24-Nov-2019 17:09:16 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:09:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:09:42 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:09:42 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:09:42 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:09:42 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 15
+[24-Nov-2019 17:09:42 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:09:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:11:23 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:11:23 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:11:23 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:11:23 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:11:23 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:11:23 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:16:40 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:16:40 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:16:40 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:16:40 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:16:40 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:16:40 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:18:56 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:18:57 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:18:57 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:18:57 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:18:57 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:18:57 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:19:03 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:19:04 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:19:04 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:19:04 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:19:04 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:19:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:19:45 Europe/Berlin] PHP Notice:  Undefined variable: insert in /var/www/html/walkout/admincrud/include/deletebeat.php on line 33
+[24-Nov-2019 17:23:18 Europe/Berlin] PHP Notice:  Undefined variable: insert in /var/www/html/walkout/admincrud/include/deletebeat.php on line 34
+[24-Nov-2019 17:29:52 Europe/Berlin] PHP Notice:  Undefined variable: insert in /var/www/html/walkout/admincrud/include/deletebeat.php on line 34
+[24-Nov-2019 17:30:44 Europe/Berlin] PHP Notice:  Undefined variable: insert in /var/www/html/walkout/admincrud/include/deletebeat.php on line 34
+[24-Nov-2019 17:31:18 Europe/Berlin] PHP Notice:  Undefined variable: insert in /var/www/html/walkout/admincrud/include/deletebeat.php on line 34
+[24-Nov-2019 17:32:05 Europe/Berlin] PHP Notice:  Undefined variable: insert in /var/www/html/walkout/admincrud/include/deletebeat.php on line 34
+[24-Nov-2019 17:37:26 Europe/Berlin] PHP Notice:  Undefined variable: insert in /var/www/html/walkout/admincrud/include/deletebeat.php on line 36
+[24-Nov-2019 17:38:25 Europe/Berlin] PHP Notice:  Undefined variable: insert in /var/www/html/walkout/admincrud/include/deletebeat.php on line 36
+[24-Nov-2019 17:50:34 Europe/Berlin] PHP Notice:  Undefined variable: insert in /var/www/html/walkout/admincrud/include/deletebeat.php on line 35
+[24-Nov-2019 17:51:04 Europe/Berlin] PHP Notice:  Undefined variable: insert in /var/www/html/walkout/admincrud/include/deletebeat.php on line 35
+[24-Nov-2019 17:51:35 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:51:35 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:51:35 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:51:35 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:51:35 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:51:35 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:52:17 Europe/Berlin] PHP Warning:  fopen(): Filename cannot be empty in /var/www/html/walkout/admincrud/include/guardarbeat.php on line 28
+[24-Nov-2019 17:52:17 Europe/Berlin] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /var/www/html/walkout/admincrud/include/guardarbeat.php on line 29
+[24-Nov-2019 17:52:17 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/walkout/admincrud/include/guardarbeat.php on line 31
+[24-Nov-2019 17:52:17 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:52:18 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:52:18 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:52:18 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:52:18 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:52:18 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:52:51 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:52:51 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:52:51 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:52:51 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:52:51 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:52:51 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:53:40 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:53:40 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:53:40 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:53:40 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 15
+[24-Nov-2019 17:53:40 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:53:40 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:54:27 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:54:27 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:54:27 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:54:27 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:54:27 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:54:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:55:14 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:55:14 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:55:14 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:55:14 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:55:14 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:55:14 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:55:31 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:55:31 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:55:31 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:55:31 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:55:31 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 17:55:31 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 17:55:31 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:55:31 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:56:11 Europe/Berlin] PHP Notice:  Undefined index: archivito in /var/www/html/walkout/admincrud/include/updatebeat.php on line 15
+[24-Nov-2019 17:56:11 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:56:11 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:56:11 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:56:11 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:56:11 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 17:56:11 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 17:56:11 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:56:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:56:39 Europe/Berlin] PHP Notice:  Undefined index: archivito in /var/www/html/walkout/admincrud/include/updatebeat.php on line 15
+[24-Nov-2019 17:56:39 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:56:39 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:56:39 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:56:39 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:56:39 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 17:56:39 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 17:56:39 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:56:39 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:57:33 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:57:34 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:57:34 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:57:34 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:57:34 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 17:57:34 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 17:57:34 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 17:57:34 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:57:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:58:17 Europe/Berlin] PHP Notice:  Undefined index: archivito in /var/www/html/walkout/admincrud/include/updatebeat.php on line 15
+[24-Nov-2019 17:58:17 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 17:58:17 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 17:58:17 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 17:58:17 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 17:58:17 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 17:58:17 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 17:58:17 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 17:58:17 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 17:58:17 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:01:15 Europe/Berlin] PHP Notice:  Undefined index: archivito in /var/www/html/walkout/admincrud/include/updatebeat.php on line 15
+[24-Nov-2019 18:01:23 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:01:23 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:01:23 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:01:23 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:01:23 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:01:23 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:01:23 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:01:23 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:01:23 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:02:10 Europe/Berlin] PHP Notice:  Undefined index: archivito in /var/www/html/walkout/admincrud/include/updatebeat.php on line 15
+[24-Nov-2019 18:02:11 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:02:11 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:02:11 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:02:11 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:02:11 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:02:11 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:02:11 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:02:11 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:02:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:03:34 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:03:34 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:03:34 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:03:34 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:03:34 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:03:34 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:03:34 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:03:34 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:03:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:03:36 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:03:36 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:03:36 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:03:36 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:03:36 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:03:36 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:03:36 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:03:36 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:03:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:04:03 Europe/Berlin] PHP Notice:  Undefined index: archivo in /var/www/html/walkout/admincrud/include/updatebeat.php on line 15
+[24-Nov-2019 18:04:03 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:04:03 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:04:03 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:04:03 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:04:03 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:04:03 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:04:03 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:04:03 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:04:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:04:50 Europe/Berlin] PHP Notice:  Undefined index: archivo in /var/www/html/walkout/admincrud/include/updatebeat.php on line 15
+[24-Nov-2019 18:04:50 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:04:50 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:04:50 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:04:50 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:04:50 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:04:50 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:04:50 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:04:50 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:04:50 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:07:24 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:07:25 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:07:25 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:07:25 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:07:25 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:07:25 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:07:25 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:07:25 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:07:25 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:07:41 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/login/modal-login.php on line 10
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Notice:  Undefined index: archivo in /var/www/html/walkout/admincrud/include/updatebeat.php on line 16
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Notice:  Undefined index: archivo in /var/www/html/walkout/admincrud/include/updatebeat.php on line 17
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Notice:  Undefined index: archivo in /var/www/html/walkout/admincrud/include/updatebeat.php on line 18
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Notice:  Undefined index: archivo in /var/www/html/walkout/admincrud/include/updatebeat.php on line 19
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:07:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:08:46 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:08:46 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:08:46 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:08:46 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:08:46 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:08:46 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:08:46 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:08:46 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:08:46 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:09:23 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:09:23 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:09:23 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:09:23 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:09:23 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:09:23 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:09:23 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:09:23 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:09:23 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:09:29 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:09:29 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:09:29 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:09:29 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:09:29 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:09:29 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:09:29 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:09:29 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:09:36 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:09:36 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:09:36 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:09:36 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:09:36 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:09:36 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:09:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:09:51 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:09:51 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:09:51 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:09:51 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:09:51 Europe/Berlin] PHP Notice:  Undefined variable: rowdos in /var/www/html/walkout/admincrud/include/showbeats.php on line 49
+[24-Nov-2019 18:09:51 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:09:51 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:10:18 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:10:18 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:10:18 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:10:18 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:10:18 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:10:18 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:11:10 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showuser.php on line 13
+[24-Nov-2019 18:11:10 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 27
+[24-Nov-2019 18:11:10 Europe/Berlin] PHP Notice:  Undefined variable: no in /var/www/html/walkout/admincrud/include/showuser.php on line 61
+[24-Nov-2019 18:11:10 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/walkout/admincrud/include/showbeats.php on line 16
+[24-Nov-2019 18:11:10 Europe/Berlin] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /var/www/html/walkout/admincrud/index.php on line 88
+[24-Nov-2019 18:11:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/walkout/admincrud/index.php on line 88
